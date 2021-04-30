@@ -1,0 +1,16 @@
+[
+  {
+    "name": "blog",
+    "path": "/blog",
+    "component": "F:\\\\Projects\\\\ademcan-website\\\\pages\\\\blog\\\\index.vue",
+    "chunkName": "pages/blog/index",
+    "_name": "_47af629a"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "F:\\\\Projects\\\\ademcan-website\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_c02a2156"
+  }
+]
