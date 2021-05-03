@@ -2,7 +2,7 @@
     <main>
 
     <div class="container">
-      <div class="logo w-40 h-40 rounded-full ring-4 ring-gray-200 dark:ring-gray-700" style="background-position: center center; background-image: url(https://media.discordapp.net/attachments/818093236173799424/824207085835124755/Dipper_Avatar.png); background-size: cover;"><img src="https://media.discordapp.net/attachments/818093236173799424/824207085835124755/Dipper_Avatar.png" draggable="false" alt="image" class="invisible rounded-md sm:transform" width="100%" height="100%"></div>
+      <div class="logo w-40 h-40 rounded-full ring-4 ring-gray-200 dark:ring-gray-700" style="background-position: center center; background-image: url(https://i.imgur.com/Zfhu7BM.jpg; background-size: cover;"><img src="https://i.imgur.com/Zfhu7BM.jpg" draggable="false" alt="image" class="invisible rounded-md sm:transform" width="100%" height="100%"></div>
         <div class="text space-y-px sm:w-9/20">
        <h1> Hi all, I'm AdemCan Certel <span class="wave">👋</span></h1>
     <h1 class="text-2xl font-normal">Let's introduce myself first and then talk about what I've done. I live in Istanbul/Turkey at the age of 17, I'm a high school student. A passionate Front End Developer 🚀 have been in the software industry since 2018 and developing my own career.</h1>
