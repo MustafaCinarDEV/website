@@ -27,7 +27,7 @@
         "@nuxtjs/tailwindcss": "^4.1.0",
         "@tailwindcss/postcss7-compat": "^2.0.4",
         "autoprefixer": "^9.8.6",
-        "postcss": "^7.0.35",
+        "postcss": "^8.2.15",
         "push-dir": "^0.4.1",
         "sass-loader": "10.1.1",
         "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.4"
